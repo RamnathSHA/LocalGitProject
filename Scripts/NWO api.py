@@ -14,6 +14,4 @@ result_api = r.get(rio_api)    #change based on API adress
 print(result_api.text)
 
 
-#results = json.loads(result_api.text)
-#print(results)
 
